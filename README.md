@@ -1,4 +1,4 @@
-# Virtual-Private-Network
+# Virtual Private Network
 VPN software built with Java using OpenSSL.
 
 ## How to run the VPN
